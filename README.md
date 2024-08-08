@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,bash,bots,djang,figma,linux,ps,powershell,py,pycharm,sublime,tailwind,vscode,windows)](https://skillicons.dev)
 <!--
 **Azazzele/Azazzele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
