@@ -2,7 +2,7 @@
 
 💬My lang programmers
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ps,powershell,bash,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,powershell,bash,py)](https://skillicons.dev)
 
 💬Fraimvorks
 
