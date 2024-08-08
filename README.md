@@ -1,5 +1,12 @@
 ### Hi there 👋
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,bash,bots,django,figma,linux,ps,powershell,py,pycharm,sublime,tailwind,vscode,windows)](https://skillicons.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Azazzele=anuraghazra&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Azazzele=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?Azazzele=anuraghazra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Azazzele/Azazzele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
