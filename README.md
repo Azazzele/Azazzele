@@ -1,5 +1,20 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,bash,bots,django,figma,linux,ps,powershell,py,pycharm,sublime,tailwind,vscode,windows)](https://skillicons.dev)
+
+💬My lang programmers
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ps,powershell,bash,py)](https://skillicons.dev)
+
+💬Fraimvorks
+
+[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,django,tailwind)](https://skillicons.dev)
+
+💬
+
+[![My Skills](https://skillicons.dev/icons?i=bots,fastapi,npm,styledcomponents,yarn)](https://skillicons.dev)
+
+💬
+
+[![My Skills](https://skillicons.dev/icons?i=figma,linux,pycharm,sublime,vscode,windows)](https://skillicons.dev)
 
 <!--
 **Azazzele/Azazzele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
