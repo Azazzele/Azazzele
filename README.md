@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-💬My lang programmers
+💬Где то научился 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,powershell,bash,py)](https://skillicons.dev)
 
-💬Fraimvorks
+💬Что то могу
 
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,django,tailwind)](https://skillicons.dev)
 
-💬
+💬Мог бы похвастаться
 
 [![My Skills](https://skillicons.dev/icons?i=bots,fastapi,npm,styledcomponents,yarn)](https://skillicons.dev)
 
-💬
+💬Я у мамы молодец
 
 [![My Skills](https://skillicons.dev/icons?i=figma,linux,pycharm,sublime,vscode,windows)](https://skillicons.dev)
 
