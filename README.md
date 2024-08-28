@@ -14,7 +14,7 @@
 
 💬Я у мамы молодец
 
-[![My Skills](https://skillicons.dev/icons?i=figma,linux,pycharm,sublime,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,figma,linux,pycharm,sublime,vscode)](https://skillicons.dev)
 
 <!--
 **Azazzele/Azazzele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
