@@ -2,7 +2,7 @@
 
 💬Где то научился 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,powershell,bash,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,powershell,bash)](https://skillicons.dev)
 
 💬Что то могу
 
