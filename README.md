@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,powershell,c,cpp,bash)](https://skillicons.dev)
 
-💬Что то могу.
+💬Что то могу. 
 
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,django,tailwind)](https://skillicons.dev)
 
