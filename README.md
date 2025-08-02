@@ -2,7 +2,7 @@
 
 💬Языки програмирования.
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,powershell,c,cpp,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,powershell,c,cpp,bash)](https://skillicons.dev)
 
 💬Фреймворки. 
 
