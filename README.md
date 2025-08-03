@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m a Data Analyst passionate about Data Science, Machine Learning, and Automation 🚀
 
 💬Языки програмирования.
 
