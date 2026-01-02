@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m a Data Analyst passionate about Data Science, Machine Learning, and Automation 🚀
+Data Analyst with a strong interest in Data Science, Machine Learning, and Automation.
+I enjoy turning data into insights and building efficient, scalable solutions.
 
 
 
