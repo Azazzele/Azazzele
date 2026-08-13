@@ -11,41 +11,41 @@
 # 💻 Tech Stack:
 
 ### 🧠 Data Science & Machine Learning
-![Python](https://shields.io)
-![TensorFlow](https://shields.io)
-![MLflow](https://shields.io)
-![Scikit-Learn](https://shields.io)
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
 
 ### 📊 Data Analysis, BI & Visualization
-![Pandas](https://shields.io)
-![NumPy](https://shields.io)
-![Plotly](https://shields.io)
-![SciPy](https://shields.io)
-![Matplotlib](https://shields.io)
-![Power BI](https://shields.io)
-![Tableau](https://shields.io)
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
 
 ### 🏗️ Big Data, Processing & Backend
-![Apache Flink](https://shields.io)
-![Apache Maven](https://shields.io)
-![C++](https://shields.io)
-![Appwrite](https://shields.io)
-![PostgreSQL](https://shields.io)
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
 
 ### ⚙️ DevOps, Automation & CI/CD
-![Rancher](https://shields.io)
-![Docker](https://shields.io)
-![Octopus Deploy](https://shields.io)
-![PowerShell](https://shields.io)
-![Tampermonkey](https://shields.io)
-![Home Assistant](https://shields.io)
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
+<img src="https://shields.io" height="35" />
 
 ---
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://vercel.app" alt="Azazzele's GitHub Stats" height="190px" />
-  <img src="https://vercel.app" alt="Top Languages" height="190px" />
+  <img src="https://vercel.app" alt="GitHub Stats" height="195" />
+  <img src="https://vercel.app" alt="Top Languages" height="195" />
 </p>
 
 ---
