@@ -3,24 +3,18 @@ Data Analyst with a strong interest in Data Science, Machine Learning, and Autom
 I enjoy turning data into insights and building efficient, scalable solutions.
 
 - 📊 **Data Analytics:** Извлечение инсайтов, проектирование дашбордов и работа с данными.
-- 🤖 **Machine Learning:** Построение предиктивных моделий и автоматизация процессов.
+- 🤖 **Machine Learning:** Построение предиктивных моделей и автоматизация процессов.
 - ⚙️ **Automation & DevOps:** Создание масштабируемых пайплайнов и оптимизация инфраструктуры.
 
 ---
 
 # 💻 Tech Stack:
 
-#### 🧠 Data Science & Machine Learning
-`Python` `TensorFlow` `MLflow`
-
-#### 📊 Data Analysis & Visualization
-`Pandas` `Plotly` `SciPy` `Matplotlib`
-
-#### 🏗️ Big Data, Processing & Backend
-`C++` `Apache Flink` `Apache Maven` `Appwrite`
-
-#### ⚙️ DevOps, Automation & CI/CD
-`Docker` `Rancher` `Octopus Deploy` `PowerShell` `Tampermonkey` `Home Assistant`
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="My Skills" />
+  </a>
+</p>
 
 ---
 [![](https://itsvg.in)](https://itsvg.in)
